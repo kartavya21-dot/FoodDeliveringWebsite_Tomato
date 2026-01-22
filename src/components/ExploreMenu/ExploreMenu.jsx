@@ -24,5 +24,3 @@ const ExploreMenu = ({category,setCategory}) => {
 }
 
 export default ExploreMenu
-// onClick={()=>setCategory(prev=>prev===item.menu_name?"All":item.menu_name)} 
-// {category,setCategory}
